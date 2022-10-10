@@ -4,9 +4,13 @@ using AWS to deploy a cloud server
 
 ## deployed servers
 
-* [GUI](https://us-west-2.console.aws.amazon.com/elasticbeanstalk/home?region=us-west-2#/environment/dashboard?applicationName=cloud-server&environmentId=e-mhj9urwu2b)
+* [GUI-server](https://us-west-2.console.aws.amazon.com/elasticbeanstalk/home?region=us-west-2#/environment/dashboard?applicationName=cloud-server&environmentId=e-mhj9urwu2b)
 
-* [CLI](https://us-west-2.console.aws.amazon.com/elasticbeanstalk/home?region=us-west-2#/environment/dashboard?applicationName=cloud-server-cli&environmentId=e-9cce22j5vq)
+* [GUI-page](http://cloudserver-env-1.eba-e4dduqn7.us-west-2.elasticbeanstalk.com/)
+
+* [CLI-server](https://us-west-2.console.aws.amazon.com/elasticbeanstalk/home?region=us-west-2#/environment/dashboard?applicationName=cloud-server-cli&environmentId=e-9cce22j5vq)
+
+* [CLI-page](http://cloud-server-cli-dev-cah.us-west-2.elasticbeanstalk.com/)
 
 ## Process
 
